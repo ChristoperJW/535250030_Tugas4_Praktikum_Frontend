@@ -1,9 +1,9 @@
 import TeamCard from "@/components/TeamCard";
 
 const team = [
-  { id: "1", nama: "Budi Santoso", jabatan: "CEO", deskripsi: "Pendiri dan pemimpin perusahaan." },
+  { id: "1", nama: "Chris Julian", jabatan: "CEO", deskripsi: "Pendiri dan pemimpin perusahaan." },
   { id: "2", nama: "Siti Aminah", jabatan: "Barista", deskripsi: "Meracik kopi dengan sepenuh hati." },
-  { id: "3", nama: "Andi Wijaya", jabatan: "Manager", deskripsi: "Mengatur operasional kedai." },
+  { id: "3", nama: "Johnny Wijaya", jabatan: "Manager", deskripsi: "Mengatur operasional kedai." },
 ];
 
 export default function TeamPage() {
